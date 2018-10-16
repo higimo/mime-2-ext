@@ -1,0 +1,21 @@
+{
+    "name": "higimo/mime-2-ext",
+    "description": "Converter mime type to extension",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "higimo",
+            "email": "higimo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
